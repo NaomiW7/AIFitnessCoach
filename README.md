@@ -23,6 +23,10 @@ To run this project locally, follow these simple steps.
 - You can stop the server anytime by pressing Ctrl+C (or Command+C on Mac).
 - To run the test suite, use the command “npm test”.
 
+## Vercel Link
+https://ai-fitness-coach-deploy-1208.vercel.app/
+Feel free to register and kick start your exercise journey!
+
 ## Demo
 ![Demo](https://github.com/NaomiW7/AIFitnessCoach/raw/main/public/login.jpg)
 ![Demo](https://github.com/NaomiW7/AIFitnessCoach/raw/main/public/demo.jpg)
